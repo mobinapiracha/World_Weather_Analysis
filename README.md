@@ -5,6 +5,21 @@ PlanMyTrip is a technology company that specializes in internet related services
 
 ## Results 
 * Utilized NumPy to find 2000 coordinates, utilized citypy module to iterate through the coordinates to find 773 nearest cities. Leveraged the OpenWeatherAPI to retreive data and created a dataframe with city country, latitude, longitude, percent humidity, percent cloudiness, wind speed and weather description
+
+![This is a alt text.](/weather_database/weather_database.PNG)
+
 * Uncovered trends, plotting scatterplots comparing City Latitude to Temperature, Humidity, Cloudiness and Wind Speed between Northern and Southern hemisphere to understand different weather conditions between the two regions
+
+![This is a alt text.](/weather_data/Fig1.png)
+![This is a alt text.](/weather_data/Fig2.png)
+![This is a alt text.](/weather_data/Fig3.png)
+![This is a alt text.](/weather_data/Fig4.png)
+![This is a alt text.](/weather_data/Fig4.png)
+
 * Filtered cities by a 65 to 85 degrees maximum temperature criteria and employed the Google Places API to find a hotel and lodging options for each city, and finally created a world heatmap for the 371 filtered cities, with a pop up market displaying weather conditions, city, country and hotel name
+
+![This is a alt text.](vacation_search/WeatherPy_vacation.png)
+
 * Created a sample travel map using the Google Directions API showing the route between 4 cities with driving as model of transportation, along with a pop up marker for each city
+
+![This is a alt text.](vacations_itinerary/WeatherPy_travel_map.PNG)
