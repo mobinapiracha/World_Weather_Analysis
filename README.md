@@ -16,7 +16,7 @@ PlanMyTrip is a technology company that specializes in internet related services
 ![This is a alt text.](/weather_data/Fig4.png)
 ![This is a alt text.](/weather_data/Fig4.png)
 ![This is a alt text.](/weather_data/Fig4.png)
-![This is a alt text.](/weather_data/North_Max_Temp.png)
+![This is a alt text.](/weather_data/North_Max_Temp)
 ![This is a alt text.](/weather_data/South_Max_Temp.png)
 ![This is a alt text.](/weather_data/North_Cloudiness.png)
 ![This is a alt text.](/weather_data/South_Cloudiness.png)
