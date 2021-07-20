@@ -14,7 +14,7 @@ PlanMyTrip is a technology company that specializes in internet related services
 ![This is a alt text.](/weather_data/Fig2.png)
 ![This is a alt text.](/weather_data/Fig3.png)
 ![This is a alt text.](/weather_data/Fig4.png)
-
+![This is a alt text.](/weather_data/Fig4.png)
 
 * Filtered cities by a 65 to 85 degrees maximum temperature criteria and employed the Google Places API to find a hotel and lodging options for each city, and finally created a world heatmap for the 371 filtered cities, with a pop up market displaying weather conditions, city, country and hotel name
 
