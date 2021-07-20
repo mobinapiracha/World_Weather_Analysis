@@ -8,7 +8,7 @@ PlanMyTrip is a technology company that specializes in internet related services
 
 ![This is a alt text.](/weather_database/weather_database.PNG)
 
-* Uncovered trends, plotting scatterplots comparing City Latitude to Temperature, Humidity, Cloudiness and Wind Speed between Northern and Southern hemisphere to understand different weather conditions between the two regions
+* Uncovered trends, plotting scatterplots comparing City Latitude to Temperature, Humidity, Cloudiness and Wind Speed, and compared Maximum Temperature, Humidity, Cloudiness, Wind Speed between Northern and Southern hemisphere to understand different weather conditions between the two regions
 
 ![This is a alt text.](/weather_data/Fig1.png)
 ![This is a alt text.](/weather_data/Fig2.png)
